@@ -1,0 +1,22 @@
+.root {
+  width: 25em;
+  padding: 3.125em;
+  border: 0.0625em solid #dedede;
+  margin: 3.125em auto;
+}
+
+.root .field {
+  margin-bottom: 1.25em ;
+}
+
+.root .title {
+  text-align: center ;
+  font-weight: bold ;
+  margin-bottom: 1.875em ;
+}
+
+.root .avatar {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1.875em;
+}
