@@ -41,8 +41,7 @@ export const Header = () => {
                   <Button className={styles.menu} variant="contained">Меню</Button>
                   <div className={styles.dropdowncontent}>
                      <a href={`/users/${userData._id}`}>Profile</a> 
-                    <a href="/">Objects</a>
-                    <a  href="/criterias-list">Characteristics</a>
+                    
                 </div>
               </div>
               
